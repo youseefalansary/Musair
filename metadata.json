@@ -1,0 +1,6 @@
+{
+  "name": "Musair - مُسعّر | استوديو تسعير وتجهيز عروض الويب",
+  "description": "منصة احترافية لحساب تكاليف وهامش أرباح مشاريع الويب، وتجهيز عروض الأسعار الرسمية ورسائل الواتساب مع دعم اللغات العربية والإنجليزية والتركية وعملات EGP و SAR و USD و TRY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

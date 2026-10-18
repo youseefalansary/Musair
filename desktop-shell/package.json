@@ -1,0 +1,7 @@
+{
+  "name": "musair-desktop",
+  "productName": "Musair",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.cjs"
+}

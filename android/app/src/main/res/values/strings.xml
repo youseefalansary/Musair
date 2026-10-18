@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Musair</string>
+    <string name="title_activity_main">Musair</string>
+    <string name="package_name">com.musair.pricingstudio</string>
+    <string name="custom_url_scheme">com.musair.pricingstudio</string>
+</resources>

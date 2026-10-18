@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+desktop-shell/dist/
+release/windows/
+release/*-Windows-x64.zip
+.DS_Store
+*.log
+.env*
+!.env.example
