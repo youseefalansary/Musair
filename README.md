@@ -30,4 +30,3 @@ pnpm desktop:windows
 
 - يخرج APK في `android/app/build/outputs/apk/debug/app-debug.apk`، ويُنسخ إلى `release/` عند تجهيز الإصدار.
 - يخرج تطبيق Windows x64 في `release/windows/Musair-win32-x64/`، وتُنشأ حزمة ZIP قابلة للتشغيل في `release/`.
-- المشروع الأصلي أُنشئ عبر [Google AI Studio](https://ai.studio/apps/09af10ff-d8fe-4cec-b853-ec4231cca3e3).
